@@ -1,2 +1,2 @@
 # FireTercel.github.io
-<a href="firetercel.github.io">战地风云</a>
+<a href="http://firetercel.github.io">战地风云</a>
